@@ -5,8 +5,8 @@
 %global crate unicase
 
 Name:           rust-%{crate}
-Version:        2.6.0
-Release:        2%{?dist}
+Version:        2.9.0
+Release:        1%{?dist}
 Summary:        Case-insensitive wrapper around strings
 
 # Upstream license specification: MIT/Apache-2.0
